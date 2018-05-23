@@ -1,0 +1,12 @@
+{
+  "automation" : [
+    {
+      "id": 1,
+      "name": "Thermostat"
+    },
+    {
+      "id": 2,
+      "name": "Try way 1"
+    }
+  ]
+}
